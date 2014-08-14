@@ -1,6 +1,8 @@
 # tron2d
 
-my first game with python and curses
+My first game with python and curses... <br>
+Sorry the game is not finished as I would like.
+I don't think improving the code but this training has allowed me to know the library "curses".
 
 ## Requirement
 
