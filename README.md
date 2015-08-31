@@ -3,6 +3,7 @@
 My first game with python and curses... <br>
 Sorry the game is not finished as I would like.
 I don't think improving the code but this training has allowed me to know the library "curses".
+A bike leaves a trail behind it, If the bike goes into a character, the game ends.
 The script read a map file (sample : map1.txt 50 row)
 
 ![Screenshot 1](https://raw.githubusercontent.com/sgaudart/tron2d/master/tron2d.png)
