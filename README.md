@@ -7,7 +7,7 @@ I don't think improving the code but this training has allowed me to know the li
 
 The script read a map file (sample : map1.txt 50 row)
 
-![Screenshot 1](https://raw.githubusercontent.com/sgaudart/tron2d/master/tron2d.png)
+![Screenshot 1](tron2d/master/tron2d.png)
 
 ## Requirement
 
